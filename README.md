@@ -11,12 +11,11 @@ This model predicts the final sale price (`SalePrice`) of homes using features s
 ---
 
 ## Repository Structure
-├── train.csv # Training data
-├── test.csv # Test data
-├── Complete Analysis.py # Main script
-├── submission.csv # Submission file (Kaggle format)
-├── README.md # Documentation
-└── requirements.txt # Python dependencies
+train.csv # Training data
+test.csv # Test data
+Complete Analysis.py # Main script
+README.md # Documentation
+requirements.txt # Python dependencies
 
 ---
 
