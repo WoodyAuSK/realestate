@@ -37,7 +37,7 @@ Scaling numeric values improves convergence and comparability of coefficients.
 Even a simple linear regression can provide surprisingly strong performance when combined with good feature engineering.
 
 ## Limitations & Improvements
-Currently uses only linear regression — nonlinear models like XGBoost or Lasso could improve performance.
+Currently uses only linear regression. Nonlinear models like XGBoost or Lasso could improve performance.
 
 ## Author
 A1C Sik Kiu AU
