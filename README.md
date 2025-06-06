@@ -8,14 +8,6 @@ This project uses **Linear Regression** to predict house prices in Ames, Iowa ba
 
 This model predicts the final sale price (`SalePrice`) of homes using features such as lot size, quality ratings, square footage, and more. The aim is to build a simple, interpretable baseline model using **linear regression** with proper preprocessing and evaluation.
 
----
-
-## Repository Structure
-train.csv # Training data
-test.csv # Test data
-Complete Analysis.py # Main script
-README.md # Documentation
-requirements.txt # Python dependencies
 
 ---
 
